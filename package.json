@@ -1,0 +1,26 @@
+{
+  "name": "posts-project-hexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaidFidjel/hexagonal-architecture.git"
+  },
+  "keywords": [
+    "hexa"
+  ],
+  "author": "said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaidFidjel/hexagonal-architecture/issues"
+  },
+  "homepage": "https://github.com/SaidFidjel/hexagonal-architecture#readme",
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  }
+}

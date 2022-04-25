@@ -22,5 +22,10 @@
   "homepage": "https://github.com/SaidFidjel/hexagonal-architecture#readme",
   "dependencies": {
     "ts-node": "^10.7.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.14.0"
   }
 }
